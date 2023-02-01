@@ -1,7 +1,7 @@
 # scikit-learn entity recognition
 
 ### Project Description
-In this project, I show the useful ways of working on entity recognition in the text using Tensorflow. 
+In this project, I show the useful ways of working on entity recognition in the text using scikit-learn. 
 
 ### Required packages:
 * [Tensorflow](https://tfhub.dev/)
